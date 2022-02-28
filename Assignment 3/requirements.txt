@@ -1,0 +1,10 @@
+seaborn
+matplotlib
+transformers
+pandas
+nltk
+datasets
+filelock
+jupyter
+torch
+seqeval
